@@ -1,0 +1,9 @@
+- Carátula a elección del alumno
+- 1ra hoja:
+    Planilla de seguimiento de actividades prácticas realizadas.
+- 2da hoja:
+    Observaciones (corrección y preguntas del alumno)
+- Ejercicios:
+    - Deben llevar número de la guía y un resumen del enunciado con los datos (no es necesario escribir todo el enunciado pero si debe ser entendible lo que se pide y los datos para resolverlo).
+    - "En manuscrito" hoja cuadriculada, membrete con nombre, curso, materia y año.
+
