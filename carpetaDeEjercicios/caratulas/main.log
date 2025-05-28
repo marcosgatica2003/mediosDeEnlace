@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.18)  24 MAY 2025 08:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.5.18)  28 MAY 2025 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -767,7 +767,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (./main.aux (./caratula.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (./configContenido.aux) (./portadaUT1.aux))
+ (./configContenido.aux) (./portadaUT1.aux) (./portadaUT2.aux) (./portadaUT3.aux) (./portadaUT4.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
@@ -994,41 +994,92 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 
 ]
-<./imagenes/portadaUT1.png, id=17, 333.49594pt x 301.8778pt>
-File: ./imagenes/portadaUT1.png Graphic file (type png)
-<use ./imagenes/portadaUT1.png>
-Package pdftex.def Info: ./imagenes/portadaUT1.png  used on input line 6.
-(pdftex.def)             Requested size: 341.43306pt x 309.08588pt.
-
+File: ./imagenes/utn.png Graphic file (type png)
+<use ./imagenes/utn.png>
+Package pdftex.def Info: ./imagenes/utn.png  used on input line 6.
+(pdftex.def)             Requested size: 71.13188pt x 77.05823pt.
+)
 
 [3
 
- <./imagenes/portadaUT1.png (PNG copy)>])
+]
+\openout2 = `portadaUT2.aux'.
 
-[4] 
+ (./portadaUT2.tex
+
+[4
+
+
+
+]
+File: ./imagenes/utn.png Graphic file (type png)
+<use ./imagenes/utn.png>
+Package pdftex.def Info: ./imagenes/utn.png  used on input line 6.
+(pdftex.def)             Requested size: 71.13188pt x 77.05823pt.
+
+
+[5
+
+])
+
+[6]
+\openout2 = `portadaUT3.aux'.
+
+ (./portadaUT3.tex
+File: ./imagenes/utn.png Graphic file (type png)
+<use ./imagenes/utn.png>
+Package pdftex.def Info: ./imagenes/utn.png  used on input line 6.
+(pdftex.def)             Requested size: 71.13188pt x 77.05823pt.
+
+
+[7
+
+
+
+
+])
+
+[8]
+\openout2 = `portadaUT4.aux'.
+
+ (./portadaUT4.tex
+File: ./imagenes/utn.png Graphic file (type png)
+<use ./imagenes/utn.png>
+Package pdftex.def Info: ./imagenes/utn.png  used on input line 6.
+(pdftex.def)             Requested size: 71.13188pt x 77.05823pt.
+
+
+[9
+
+
+
+
+])
+
+[10] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./main.aux (./caratula.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
- (./configContenido.aux) (./portadaUT1.aux))
+ (./configContenido.aux) (./portadaUT1.aux) (./portadaUT2.aux) (./portadaUT3.aux) (./portadaUT4.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 44696 strings out of 475109
- 1112010 string characters out of 5765325
- 1754757 words of memory out of 5000000
- 67173 multiletter control sequences out of 15000+600000
- 576852 words of font info for 72 fonts, out of 8000000 for 9000
+ 44779 strings out of 475109
+ 1113884 string characters out of 5765325
+ 1757697 words of memory out of 5000000
+ 67231 multiletter control sequences out of 15000+600000
+ 583938 words of font info for 81 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  102i,6n,107p,450b,841s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (4 pages, 3168402 bytes).
+</usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (10 pages, 2927124 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
