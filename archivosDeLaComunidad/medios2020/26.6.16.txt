@@ -1,0 +1,15 @@
+#MediosDeEnlace torico eran dos temas 1 practico y otro teorico
+practico: el ejer 32 del librito de abad, con los resultados obtenidos debias encontrar Zn e Yn, el Roe y coeficiente de refleccion en el diagrama de crank te daba un 2° dato n2.
+TEORICO
+el teorico solo era desarrollar 
+* fribras obticas
+* guias de ondas
+* lineas de transmicion
+era solo decir un poco de cada uno, escribir las formulas y no tenias que demostrar nada 
+(Nadie pudo hacer el CRANK )
+De teorico a mi me tomo solo guia de onda hacer el desarrollo para llegar a la frecuencia de corte partiendo de otra formula....
+A otro le tomo apertura numerica de fibra optica 
+a otro le pidio algo que no salio nunca que fue hacer un cuadro comparativo entre guia de onda, fibra optica, y linea de transmisión.....
+
+El crank : habia que posicionar la impedancia zn y la admitancia para desarrollar el crank habia que hacer bien el punto 1 que era el ejercicio 32 como dijo ariel...
+Bueno los 3 bochazos y la rendida final fueron hace años, pero por ejemplo lo q recuerdo es ejercicios de crank...de abaco, otro ejer q esta solo en en apunte. ..creo q era de reflexion oblicua o algo asi, también supo tomar un ejercicio medio conceptual...en teorico daba las tarjetas y después oral...en oral hace hincapié en guias de ondas, radiacion...conceptos de esas unidades...te puede tocar cualquier cosa, desde ecuaciones de maxwell a radiacion y cualquier ejercicio de la guia...los tenes q saber a todos...lo q no implica que tengas un suerton y te tome justo en lo que estás afilado, yo había hecho un resumen muy bueno del libro pero al rendir lo presté a un compañero y no me lo devolvieron nunca mas...un tal laureano olmedo

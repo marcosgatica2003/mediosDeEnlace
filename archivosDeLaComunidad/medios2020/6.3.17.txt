@@ -1,0 +1,9 @@
+#mediosdeenlace final 6/3/2017
+Abad tomo 2 ejercicios practicos y tres teoricos, para aprobar se necesitaba hacer totalmente bien dos toricos y un practico.
+1) Te daba impedancia caracteristica, impedancia de carga. Te pedia que por medio del abaco de Smith se marcque Zn, Yn, calcular coeficiente de reflexion y ROE. Luego girar em sentido horario una determinada cantidad de lambda y calcular todo de vuelta.
+2) Te daba la ec de onda con un par de datos y te pedia determinar el valor de E a un t y z determinado.
+3)(Teorico) Fibras opticas: caracteristicas, modos de propagacion, graficos.
+4)(Teorico) obtener beta a partir de gamma cuadrado
+5)(Teorico) reflexion normal entre dielectricos, coeficientes de reflexion y conclusiones
+tiempo para final: 70min
+ los otros teóricos que salieron son Antena diagramas y nociones básicas bastaba hacer los diagramas de directividad y el bode , frec de corte de guía de onda y como se relaciona un medio con una línea de transmisión desadaptada, éxitos chicos

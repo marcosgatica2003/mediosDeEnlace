@@ -1,0 +1,8 @@
+#MediosDeEnlaces. Final del 03/02/2014
+Eran tres puntos, un práctico que si o si tenía que estar bien y dos teóricos.
+A la vez eran varios temas. 
+*Práctico: (en uno de los temas) Calcular la distancia al generador entre dos impedancias que te daba como dato.
+*Teórico: 
+(un tema) un punto era calcular la fc de una guía de onda (te daba la fórmula de cte. de propagación) y el otro punto líneas de transmisión (pedía muchas cosas, que eran, para que servían, que era la impedancia intrínseca, como se relacionaba un medio con una LT des adaptada, y no me acuerdo que más, pero este punto era teórico)
+(Otro tema) calcular la constante beta, te daba un par de fórmulas como dato (te daba las dos fórmulas de la constate de propagación) el otro punto escribir sobre tipos de propagación de ondas.
+Espero que sirva!!! Saludosss =)

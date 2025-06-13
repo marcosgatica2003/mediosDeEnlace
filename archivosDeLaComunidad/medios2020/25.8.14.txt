@@ -1,0 +1,7 @@
+Final #MediosDeEnlace 25/08/2014. Tema 2.
+Eran 4 puntos. Sacando entre 55% y 70% pasabas al teórico, con mas de 70% aprobabas directamente.
+1) pedia el desarrollo de la impedancia intrínseca partiendo del cociente v/i en una lt. Despues tenias q marcar dos puntos en el abaco, te daba las longitudes de onda. (15%)
+2) Crank completo. Te daba como dato zn=0,62 + j 1.4 (35%)
+3) desarrollar el modelo de cuadripolo equivalente de una lt (15%)
+4) fc de una lt. De daba a=0,9" b=0,4" para te10, te20, te11 y te21 (35%)
+Si alguien tiene los otros temas agreguen! Saludos

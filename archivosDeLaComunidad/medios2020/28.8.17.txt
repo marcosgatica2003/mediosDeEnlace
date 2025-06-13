@@ -1,0 +1,9 @@
+#MediosDeEnlace turno expandido 28/08/17 (abad)
+6 puntos. 5 practicos 1 teorico obligatorio
+1-ej igual al 3.2.25 o 3.3.26
+2-ej: te da el coef. de reflexion calcular distancia al maximo en grados y en z usando el crank y marcarlo
+3-ej: dada zn=0.2+j0.2 dar modulo y y angulo de coef. de reflexion (usando abaco)
+4-ej: dado el coef. de reflexion = xx calcular analiticamente el roe y demostrar con abaco
+5-ej: te da dimensiones guia de onda TE10 y calcular la frcuencia de corte
+6- demostrar que densidad de energia electromagnetica por velocidad (w*v_p=EH)es el vector de poynting, 
+a otros demostrar la formula de E en reflexion normal con un cond. perfecto

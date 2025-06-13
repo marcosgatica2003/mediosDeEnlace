@@ -1,0 +1,6 @@
+#MediosDeEnlace 04/04/16
+1. Teórico encontrar la frecuencia de corte en una guía de onda partiendo de la ecuación [11-24] de la pag 278 del libro y decir que criterios utiliza.
+2. Ejercicio práctico de guía de onda con la formula anterior encontrada de la fc calcular dicha frecuencia en una guía de onda rectangular TM 11. Y te daba los datos. 
+3. Fibra óptica te daba la figura 16-4 de la pagina 396 del libro y encontrar la apertura numérica y el ángulo de aceptación. Pedía q la formula este lo más reducida posible que se hace dándole el valor a beta2= 90° q es el ángulo crítico.
+4. Encontrar analiticamente la impedancia normalizada de una línea con carga en circuito abierto. Y la longitud de la linea es 0,336 ?. Graficar. 
+Yo era tema 4 a otros vi que le cambio sólo un ejercicio creo que pedía encontrar la impedancia característica de una línea. .. análisis como cuadripolo.

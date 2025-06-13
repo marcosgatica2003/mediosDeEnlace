@@ -1,0 +1,8 @@
+#MediosDeEnlace 23/02/2015 
+El ingeniero Abad tomó oral uno por uno. Había que elegir una tarjeta, y cada una de estas tenía cinco temas. Era desarrollar el concepto, fórmula, gráficos y nada más. Si había un tema que no sabías nada te aplazaba directamente.
+Los temas que me tocaron a mí fueron:
+- Lineas de transmisión: me pidió que explicara parámetros distribuidos, que era impedancia característica, análisis de la linea como cuadripolo formulas.
+-Reflexión oblicua: me pidió el gráfico, la formula, aplicaciones (ahí me preguntó frecuencia de corte de una G.O y apertura numérica de una F.O).
+-Antenas: pidió el concepto y preguntó que era una antena yagi y que era la ganancia directiva.
+-Cálculo del campo eléctrico: Agarró un Diagrama de Crank, marcó una impedancia y me pidió el coef. De reflexión, distancia al max y al min. Y como haría para marcar esa misma impedancia en el ábaco.
+-Espectro electromagnético: acá simplemente pidió ubicar en el espectro AM y FM. Preguntó sobre que tipo de propagación se utilizaba en cada caso.

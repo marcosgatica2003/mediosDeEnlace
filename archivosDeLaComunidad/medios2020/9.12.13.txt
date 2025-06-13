@@ -1,0 +1,5 @@
+Examen #MediosDeEnlace
+1) Habia que calcular el factor de disipacion y el Beta
+2) Calcular la profundidad de penetracion. Los datos eran Ei, Ex (en la carga) y distancia.
+3) Calcular la Zr a traves de abaco de smith. Los datos eran Zi, Zo, distancia la carga, frecuencia y velocidad.
+Despues de eso la charla teorica.

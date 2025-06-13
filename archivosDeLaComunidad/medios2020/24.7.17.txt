@@ -1,0 +1,4 @@
+Turno 24/7/17 de #mediosdeenlace:
+1) Guías de ondas: demostrar fc a partir de gama. Y después calcularla en una TM11 con a=...
+2)Fibra Óptica: apertura numérica. Este era obligatorio tenerlo bien y variaba según el tema, a otros les tomaba impedancia característica. 
+3)Calculo de zn a circuito abierto con Ls = 0,337lambda. Analíticamente y aproximadamente en un círculo como si fuera Ábaco de Smith.

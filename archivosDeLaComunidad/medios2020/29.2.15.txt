@@ -1,0 +1,9 @@
+#MediosDeEnlace
+Ayer 29/02/15 Abad tomo un ejercicio practico y dos teoricos. Tenias que tener los 3 puntos bien para aprobar, y sino desaprobabas. Hubo como 4 o 5 temas, de los cuales creo q para todos era el mismo ejercicio Practico: Un crank tipico, con zn dibujar la onda, calcular ROE, distancias al maximo y minimo en grados y lambda.
+En cuanto a los puntos teoricos, todos tenian distintos pero estos eran algunos de ellos:
+- Teorema de Poynting y relacion entre Vf y w.
+- Impedancia en cualquier punto de la linea de transmision.
+- Impedancia caracteristica: formula y definicion.
+- Obtener con formulas que te daba, uno de los campos de guia de onda (Ex,Ey,Hx,Hy)..a algunos les toco Ey, otros Hx, etc.
+- Mostraba un par de los dibujos de la pagina 288 del libro ("Métodos de excitar una guía de onda"), decir que tipo de propagacion era cada uno, justificar, y escribir las ecuaciones de Ez y Hz.
+Si alguien sabe alguno mas, que lo comente. Abrazo!

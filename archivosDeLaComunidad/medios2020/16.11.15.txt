@@ -1,0 +1,11 @@
+Tomo un examen de tres puntos, uno práctico y dos teóricos. Cambiaba según el tema que te tocaba.
+
+El primero, un ejercicio práctico en donde te daba una impedancia normalizada Zn, y pedia dibujar el Cranck de la onda, obtener ROE, angulo y modulo de G, distancia al maximo y al minimo en ? y ?.
+Al no tener mas datos, era para obtener graficamente.
+
+El primer teorico era radiacion, las tres formulas que de H y E, explicando los terminos y expresar el Pointing de radiacion. 
+Con memorizar las formulas, explicar lo de radiacion, induccion, electroestatico, lo de ?/2p y poner la formula de la potencia es suficiente.
+
+El ultimo, era sobre guias de onda. Te daba un sistema de 2 ecuaciones, con H, E, derivadas parciales y componentes en los ejes, para que despejes Hy en funcion de las derivadas parciales, e indicar h^2. Es algebra mas que nada
+
+Saludos
